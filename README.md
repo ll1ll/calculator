@@ -1,2 +1,2 @@
 # calculator
-�ѱ��� �ȵŤФ�_GitHub �ǽ� �����
+한글이 안돼ㅠㅠ_GitHub 실습 저장소
